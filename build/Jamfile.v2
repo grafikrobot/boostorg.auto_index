@@ -7,7 +7,7 @@
 #==============================================================================
 
 project
-   : build-default release ;
+   : default-build release ;
 
 exe auto_index :
    ../src/auto_index.cpp
